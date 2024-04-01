@@ -1,0 +1,40 @@
+body {
+	margin: 0;
+	padding: 0;
+	font-family: sans-serif;
+	background-color: #DCDCDC;
+}
+
+header {
+	background-color: #2F4F4F;
+	color: #fff;
+	padding: 20px;
+}
+
+main {
+	background-color: #DCDCDC;
+	padding: 20px;
+}
+
+h1, h2 {
+	margin: 0;
+}
+
+h2 {
+	margin-top: 20px;
+}
+
+footer {
+	background-color: #ddd;
+	padding: 10px;
+	text-align: right;
+}
+
+button {
+	background-color: #2F4F4F;
+	color: #fff;
+	margin: 0;
+	padding: 10px;
+	font-size: 12pt;
+}
+
